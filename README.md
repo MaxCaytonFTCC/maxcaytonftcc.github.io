@@ -4,7 +4,7 @@
 
 Are you ready to embark on a journey through the mystical realm of numbers? Introducing **Greg the Oracle**, the enchanted calculator that brings a touch of magic to your mathematical adventures!
 
-![Greg the Oracle](https://your-image-url-here.com/greg-the-oracle.jpg)
+![Greg the Oracle]
 
 Inspired by the legendary Texas Instruments Dataman from 1977, Greg the Oracle combines nostalgia with modern mysticism to create an unforgettable learning experience.
 
